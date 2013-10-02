@@ -1,5 +1,5 @@
 ### WAPPSCmdlets module
-These are the files required to load- and use the WAPPSCmdlets that were previously available at CodePlex.  WAPPSCmdlets were a PowerShell module back in the day (call it late 2011), before Microsoft had an "official" Azure cmdlets release.
+These are the files required to load- and use the WAPPSCmdlets that were previously available at CodePlex.  The version that the module reports is '2.2.2.0'.  WAPPSCmdlets were a PowerShell module back in the day (call it late 2011), before Microsoft had an "official" Azure cmdlets release.
 Files in this collection that are from the Windows Azure SDK, v1.6, x64:
 - Microsoft.WindowsAzure.Diagnostics.dll
 - Microsoft.WindowsAzure.Diagnostics.xml
